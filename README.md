@@ -16,10 +16,8 @@ The project includes detailed calculations to support the design choices:
 - Electrical resistance calculations to correlate with temperature changes.
 - Calibration curves to convert sensor readings into wind speed measurements.
 
+![image](https://github.com/suresravinath/Hot-wire-and-hot-film-anemometers-Design/assets/118838341/a7fdc6e8-9668-4601-8afe-38d0c73e730a)
 
-## Getting Started
-To get started with this project, clone the repository and follow the instructions provided in the documentation.
+![image](https://github.com/suresravinath/Hot-wire-and-hot-film-anemometers-Design/assets/118838341/49aed008-f025-40c6-8e8c-b00bec791346)
 
-```bash
-git clone https://github.com/yourusername/hot-wire-hot-film-anemometers.git
-cd hot-wire-hot-film-anemometers
+
